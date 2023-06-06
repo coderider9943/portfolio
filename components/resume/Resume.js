@@ -34,7 +34,7 @@ export default function Resume() {
             I&#39;m Currently Working as freelancer in Upwork.
           </Typography>
           <a
-            href='/Kuang.pdf'
+            href='/Milos.pdf'
             alt='Full Resume'
             target='_blank'
             rel='noopener noreferrer'
